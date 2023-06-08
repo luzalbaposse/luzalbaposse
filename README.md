@@ -1,9 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Lu</h1>
 <h3 align="center">Estudiante de Licenciatura en Tecnología Digital | Argentina 🇦🇷</h3>
 <p align="left"> <a href="https://twitter.com/luzalbaposse" target="blank"><img src="https://img.shields.io/twitter/follow/luzalbaposse?logo=twitter&style=for-the-badge" alt="luzalbaposse" /></a> </p>
-🌱 Actualmente estoy aprendiendo Python para ML
-
-💬 Pregúntame sobre UX
+🌱 Actualmente estoy aprendiendo los basis de ML & Solidity
 
 📫 Cómo contactarme: luzalbaposse@gmail.com
 
