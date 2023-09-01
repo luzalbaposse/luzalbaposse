@@ -4,7 +4,7 @@
 
 🌱 Siempre estoy aprendiendo nuevas cosas, pero actualmente estoy enfocada en aprender más sobre neurociencia y tecnología :)
 
-📫 Puedes contactarme en malbaposse@mail.utdt.edu
+📫 Escribime en malbaposse@mail.utdt.edu
 
 📄 Conoce más sobre mí en [luzalbaposse.xyz](https://luzalbaposse.xyz).
 
