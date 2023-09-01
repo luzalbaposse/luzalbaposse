@@ -2,7 +2,7 @@
 <h3 align="center">Profesora Auxiliar de Introducción a Blockchain | Research Assistant en el Laboratorio de Neurociencia | Universidad Torcuato Di Tella | Argentina 🇦🇷</h3>
 <p align="left"> <a href="https://twitter.com/luzalbaposse" target="blank"><img src="https://img.shields.io/twitter/follow/luzalbaposse?logo=twitter&style=for-the-badge" alt="luzalbaposse" /></a> </p>
 
-🌱 Siempre estoy aprendiendo nuevas cosas, pero actualmente estoy enfocada en aprender más sobre la aplicación de la inteligencia artificial en la neurociencia :D
+🌱 Siempre estoy aprendiendo nuevas cosas, pero actualmente estoy enfocada en aprender más sobre neurociencia y tecnología :)
 
 📫 Puedes contactarme en malbaposse@mail.utdt.edu
 
