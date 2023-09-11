@@ -20,6 +20,8 @@
 <h3 align="left">Lenguajes y herramientas:</h3>
 
 - Next.js
+- Javascript
+- React
 - Solidity
 - D3.js
 - Observable Plot
