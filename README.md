@@ -19,15 +19,15 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 
-- Next.js
-- Javascript
-- React
 - Solidity
 - D3.js
 - Observable Plot
 - Python
 - C
-
+<h3 align="left">Aprendiendo:</h3>
+- Next.js
+- Javascript
+- React
 <h3 align="left">🤓 Dato curioso...
 </h3>
 En mi tiempo libre, me gusta leer literatura, tocar el bajo, correr y codear proyectos personales.
