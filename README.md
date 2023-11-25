@@ -1,4 +1,4 @@
-<h1 align="center">¡Hey! 👋 It's Lu</h1>
+<h1 align="center">Hey! 👋 It's Lu</h1>
 <h3 align="center">Blockchain Introduction Assistant Professor | Research Assistant at UTDT Neuroscience Lab | Torcuato Di Tella University | Argentina 🇦🇷</h3>
 📫 Escribime en malbaposse@mail.utdt.edu
 📄 Conoce más sobre mí en [luzalbaposse.xyz](https://luzalbaposse.xyz).
