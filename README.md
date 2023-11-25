@@ -1,11 +1,6 @@
-<h1 align="center">¡Hola! 👋 Soy Lu</h1>
-<h3 align="center">Profesora Auxiliar de Introducción a Blockchain | Research Assistant en el Laboratorio de Neurociencia | Universidad Torcuato Di Tella | Argentina 🇦🇷</h3>
-<p align="left"> <a href="https://twitter.com/luzalbaposse" target="blank"><img src="https://img.shields.io/twitter/follow/luzalbaposse?logo=twitter&style=for-the-badge" alt="luzalbaposse" /></a> </p>
-
-🌱 Probablemente aprendiendo algo nuevo :)
-
+<h1 align="center">¡Hey! 👋 It's Lu</h1>
+<h3 align="center">Blockchain Introduction Assistant Professor | Research Assistant at UTDT Neuroscience Lab | Torcuato Di Tella University | Argentina 🇦🇷</h3>
 📫 Escribime en malbaposse@mail.utdt.edu
-
 📄 Conoce más sobre mí en [luzalbaposse.xyz](https://luzalbaposse.xyz).
 
 <h3 align="left">Conéctate conmigo:</h3>
@@ -17,17 +12,20 @@
 <a href="https://medium.com/@luzalbaposse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@luzalbaposse" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h3 align="left">Languages and Tools</h3>
 
-- Solidity
+- Solidity 
 - D3.js
 - Observable Plot
 - Python
 - C
-<h3 align="left">Aprendiendo:</h3>
+
+<h3 align="left">Learning:</h3>
 - Next.js
 - Javascript
 - React
-<h3 align="left">🤓 Dato curioso...
+- Noir and Aztec Sandboox (too cool)
+
+<h3 align="left">🤓 Curious things?
 </h3>
-En mi tiempo libre, me gusta leer literatura, tocar el bajo, correr y codear proyectos personales.
+I love literature, playing the bass guitar, running and I really love love love drinking coffee. Really.
