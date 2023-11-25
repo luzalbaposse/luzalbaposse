@@ -3,7 +3,7 @@
 📫 Escribime en malbaposse@mail.utdt.edu
 📄 Conoce más sobre mí en [luzalbaposse.xyz](https://luzalbaposse.xyz).
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">I share stuff in:</h3>
 <p align="left">
 <a href="https://twitter.com/luzalbaposse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luzalbaposse" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luzalbaposse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luzalbaposse" height="30" width="40" /></a>
