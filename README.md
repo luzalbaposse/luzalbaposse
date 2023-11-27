@@ -1,7 +1,6 @@
 <h1 align="center">Hey! 👋 It's Lu</h1>
 <h3 align="center">Blockchain Introduction Assistant Professor | Research Assistant at UTDT Neuroscience Lab | Torcuato Di Tella University | Argentina 🇦🇷</h3>
 📫 Escribime en malbaposse@mail.utdt.edu
-📄 Conoce más sobre mí en [luzalbaposse.xyz](https://luzalbaposse.xyz).
 
 <h3 align="left">I share stuff in:</h3>
 <p align="left">
@@ -24,7 +23,7 @@
 - Next.js
 - Javascript
 - React
-- Noir and Aztec Sandboox (too cool)
+- Noir and Aztec Sandboox (too cool) 
 
 <h3 align="left">🤓 Curious things?
 </h3>
