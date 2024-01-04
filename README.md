@@ -38,7 +38,7 @@ Away from the technology, you'll catch me playing bass guitar, immersed in a goo
 - Next JS | JavaScript | React
 
 ## 🌱 Goals
-My ultimate aim is to pursue a PhD in Science and Technology, in order to apply the knowledge I gain there into industry.
+My ultimate aim is to pursue a PhD in Science and Technology, in order to apply the knowledge I gain there into industry by building my own social impact start-up :-D
 
 ## 📝 Recent Blog Posts
 1. [How to get your brain to understand field type on Noir](https://dev.to/luzalbaposse404/how-to-get-your-brain-to-understand-field-type-on-noir-akn)
