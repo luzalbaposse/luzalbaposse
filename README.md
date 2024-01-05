@@ -22,7 +22,7 @@ Away from the technology, you'll catch me playing bass guitar, immersed in a goo
 > Prev Asteroid Technologies ☄️ & Instituto Humai 🤖
 
 ## 🤓 Studies
-- Currently studying Bachelor in Digital Technology at UTDT. Planing on specializing in Blockchain and Human Behavior.
+- Currently studying Bachelor Degree in Digital Technology at UTDT. Planing on specializing in Blockchain and Human Behavior.
 
 <div align="center">
   
