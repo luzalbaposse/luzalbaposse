@@ -18,7 +18,7 @@ Away from the technology, you'll catch me playing bass guitar, immersed in a goo
 
 ## 💼 Work
 - Research Assistant at [Neuroscience Lab](https://www.utdt.edu/ver_contenido.php?id_contenido=10518&id_item_menu=20132)
-- Blockchain Introduction Assistant Professor at [Torcuato Di Tella University](https://www.utdt.edu/)
+- Blockchain Introduction Teaching Assistant at [Torcuato Di Tella University](https://www.utdt.edu/)
 > Prev Asteroid Technologies ☄️ & Instituto Humai 🤖
 
 ## 🤓 Studies
