@@ -6,7 +6,7 @@
 </div>
 
 ## 🤍 About Me
-I'm a Research Assistant in the Neuroscience Lab at Torcuato Di Tella University. Currently honing my skills in Data Science. Beyond my academic pursuits, I'm actively involved in blockchain research, particularly in the realm of zero-knowledge proofs and Ethereum, and I'm on a journey to learn more about developer relations.
+I'm a Research Assistant in the Neuroscience Lab at Torcuato Di Tella University, working with identifying toxicity in text channels. Beyond that, I'm involved in blockchain research, particularly in the realm of zero-knowledge proofs and Ethereum.
 <div align="center">
   
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Lu's GIF" width="200" height="200">
