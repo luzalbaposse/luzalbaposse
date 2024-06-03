@@ -33,9 +33,22 @@ Away from the technology, you'll catch me playing bass guitar, immersed in a goo
 > **Why would you merge Blockchain and Human Behavior?** Because with blockchain, we may be able to build better governance systems. Perhaps the key to improved governance lies in understanding if we can create a more decentralized way of organizing our societies. The first step for that is learning more about how we behave.
 
 ## 🚀 Skills
-- Python | Data Analysis
-- Solidity | Hardhat | Foundry
-- Next JS | JavaScript | React
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)  
+Badges generated with [Badges](https://badges-seven.vercel.app).
 
 ## 🌱 Goals
 My ultimate aim is to pursue a PhD in Science and Technology, in order to apply the knowledge I gain there into industry by building my own social impact start-up :-D
