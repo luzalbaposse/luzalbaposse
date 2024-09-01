@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Niyk3I37xmdLU1HL8t/giphy.gif" alt="GIF hola" width="200"/>
-  <h1>👋 I'm Lu from Argentina</h1>
 </div>
 
 ## About Me
