@@ -3,7 +3,7 @@
 </div>
 
 ## About Me
-I'm a blockchain researcher focused on zero-knowledge proofs and Ethereum. I also enjoy playing bass, reading, and running.
+I like to say that I’m a mix of a lot of things… science, design, technology, music. Basically, a generalist.
 
 ## Work
 Working w/ a group of developers, researchers, data scientists, investors, and executive leaders who love building cool sh*t. 
